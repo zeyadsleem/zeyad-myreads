@@ -5,7 +5,7 @@ This is web udacity application project for nano degree to use it as a online bo
 ## To install It
 
 ```
-git clone https://github.com/zeyadsleem/myreads.git
+git clone https://github.com/zeyadsleem/zeyad-myreads.git
 
 yarn
 
